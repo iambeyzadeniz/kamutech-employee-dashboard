@@ -12,6 +12,6 @@ Bu dashboard, özel CSS değişkenleri ve ölçek oranları ile gelişmiş bir r
 
 ```bash
 git clone https://github.com/iambeyzadeniz/kamutech-employee-dashboard.git
-cd kamutech-employee-dashboard
+cd kamutech-assignment
 npm install
 npm start
